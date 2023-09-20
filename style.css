@@ -1,0 +1,70 @@
+    .logo {
+        width: 10%;
+    }
+    
+    .button {
+        background-color: #e50914;
+        color: white;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        padding-left: 15px;
+        padding-right: 15px;
+        border-radius: 3px;
+        cursor: pointer;
+        width: fit-content;
+    }
+    
+    .adjust {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    .main {
+        width: 100%;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .all {
+        background-size: cover;
+        background-image: url("nimg.jpg");
+        height: 100vh;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    
+    .third main {
+        size: 4em;
+    }
+    
+    .email {
+        width: 50%;
+        background-color: white;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .conteainer {
+        outline: none;
+    }
+    
+    .start {
+        padding: 18px 35px;
+        font-family: Arial, Helvetica, sans-serif;
+        height: fit-content;
+        background-color: #e50914;
+        cursor: pointer;
+    }
+    
+    .conteainer {
+        text-size-adjust: 2px;
+    }
